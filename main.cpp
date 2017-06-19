@@ -1,7 +1,4 @@
-/*
- Gabriel Equitz - CSC 340 - student id: 915254839  - 
- * 
- */
+
 
 #include <cstdlib>
 #include <iostream>
